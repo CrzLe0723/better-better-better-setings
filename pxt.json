@@ -11,13 +11,12 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "b.ts",
-        "otherTest.ts",
-        "otherOtherTest.ts",
-        "test.ts"
+        "b.ts"
     ],
     "testFiles": [
-        "test.ts"
+        "test.ts",
+        "otherTest.ts",
+        "otherOtherTest.ts"
     ],
     "targetVersions": {
         "target": "4.1.25",
